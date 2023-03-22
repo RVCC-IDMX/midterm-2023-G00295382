@@ -1,37 +1,32 @@
 body {
     font-family: 'DM Sans', sans-serif;
     font-size: 20px;
+    background-color:#f5f1d5;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size:50px;
+}
+
+h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
     font-size:40px;
 }
 
-header {
-    
+header figure {
+    padding-top:20px;
 }
 
-#portfolio {
-
+.captionlink {
+    font-size:10px;
 }
 
-#customers {
-
+#special {
+    margin-top:10px;
+    font-size:10px;
 }
 
-#portfolio ol {
-
-}
-
-#portfolio ol li {
-
-}
-
-#customers ul {
-
-}
-
-#customers ul li {
-
+#customers ul p {
+    margin-left:35px;
 }
